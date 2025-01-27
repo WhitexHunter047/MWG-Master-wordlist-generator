@@ -1,4 +1,4 @@
-![MWG_pic](_ad78c356-9844-4ac4-b1c9-2c9700982c14.jpg)
+![MWG_pic](_MWG_pic.jpg)
 # MWG:
 ```markdown
 # 🛠️ Wordlist Generator Tool
