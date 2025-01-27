@@ -37,11 +37,11 @@ pip install -r requirements.txt
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/wordlist-generator.git
+   git clone https://github.com/WhitexHunter047/MWG-.git
    ```
 2. Navigate to the project directory:  
    ```bash
-   cd wordlist-generator
+   cd MWG
    ```
 3. Install dependencies:  
    ```bash
@@ -54,7 +54,7 @@ pip install -r requirements.txt
 
 Run the tool:  
 ```bash
-python wordlist_generator.py
+python MWG v3.py
 ```
 
 ### 🔎 Input Details:
@@ -76,32 +76,11 @@ To create a logical wordlist with specific inputs:
 
 1. Run the tool:  
    ```bash
-   python wordlist_generator.py
+   python MWG v3.py
    ```
 2. Follow the on-screen prompts and enter the requested details.  
 3. Specify the output file name.  
 4. Wait for the 🌈 progress bar to finish!  
-
----
-
-## 🤝 Contributing
-
-We ❤️ contributions!  
-
-1. Fork the repository.  
-2. Create a new branch:  
-   ```bash
-   git checkout -b feature/your-feature
-   ```
-3. Commit your changes:  
-   ```bash
-   git commit -m "Add your feature"
-   ```
-4. Push the branch:  
-   ```bash
-   git push origin feature/your-feature
-   ```
-5. Open a pull request.  
 
 ---
 
@@ -123,14 +102,13 @@ This tool is **strictly for ethical purposes only**. 🚨
 
 🎉 **Start generating wordlists like a pro today!**  
 ```bash
-git clone https://github.com/yourusername/wordlist-generator.git
+git clone https://github.com/WhitexHunter047/MWG-.git
 ```
 ```bash
-cd wordlist-generator
+cd MWG
 ```
 ```bash
-python wordlist_generator.py
+python MWG v3.py
 ```
 ```
 
-This version uses emojis for a modern and engaging appearance, includes a step-by-step copy-paste approach, and highlights the disclaimer prominently. Let me know if you'd like to make further tweaks!
