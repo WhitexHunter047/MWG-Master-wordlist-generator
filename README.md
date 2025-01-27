@@ -1,5 +1,4 @@
-Here’s an enhanced version of the **README.md** with emojis, a copy-paste style, and a disclaimer:  
-
+# MWG:
 ```markdown
 # 🛠️ Wordlist Generator Tool
 
