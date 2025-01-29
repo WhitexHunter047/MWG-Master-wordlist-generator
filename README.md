@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/WhitexHunter047/MWG-.git
+   git clone https://github.com/WhitexHunter047/MWG-Master-wordlist-generator.git
    ```
 2. Navigate to the project directory:  
    ```bash
@@ -102,7 +102,7 @@ This tool is **strictly for ethical purposes only**. 🚨
 
 🎉 **Start generating wordlists like a pro today!**  
 ```bash
-git clone https://github.com/WhitexHunter047/MWG-.git
+git clone https://github.com/WhitexHunter047/MWG-Master-wordlist-generator.git
 ```
 ```bash
 cd MWG
